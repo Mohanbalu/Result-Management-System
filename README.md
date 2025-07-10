@@ -1,11 +1,9 @@
 # Result Management System with Python Flask and MySQL
 <br>
 
-<a href="https://rmsnigeria.pythonanywhere.com/" target="_blank">https://rmsnigeria.pythonanywhere.com/
-</a>
 <br>
 
-<img src="https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL/blob/master/images/admin_resized.png">
+<img src="https://github.com/Mohanbalu/Result-Management-System/blob/master/images/admin_resized.png">
 
 <br>
 
@@ -75,7 +73,7 @@ Virtual environment. It is advisable to run this project inside of a virtual env
 ### 1. Create an environment <br>
 **Windows** (cmd) <br>
 ```
-cd Result-Management-System-with-Python-Flask-and-MySQL
+cd Result-Management-System
 pip install virtualenv
 python -m virtualenv venv
 ```
@@ -86,7 +84,7 @@ python3 -m venv venv
 
 **macOS/Linux** <br>
 ```
-cd Result-Management-System-with-Python-Flask-and-MySQL
+cd Result-Management-System
 pip install virtualenv
 python -m virtualenv venv
 ```
