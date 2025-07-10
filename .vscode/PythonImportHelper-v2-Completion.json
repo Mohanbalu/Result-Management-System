@@ -1,0 +1,628 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "details",
+        "importPath": "login_details",
+        "description": "login_details",
+        "isExtraImport": true,
+        "detail": "login_details",
+        "documentation": {}
+    },
+    {
+        "label": "LoginManager",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "Admin",
+        "importPath": "flask_admin",
+        "description": "flask_admin",
+        "isExtraImport": true,
+        "detail": "flask_admin",
+        "documentation": {}
+    },
+    {
+        "label": "BaseView",
+        "importPath": "flask_admin",
+        "description": "flask_admin",
+        "isExtraImport": true,
+        "detail": "flask_admin",
+        "documentation": {}
+    },
+    {
+        "label": "expose",
+        "importPath": "flask_admin",
+        "description": "flask_admin",
+        "isExtraImport": true,
+        "detail": "flask_admin",
+        "documentation": {}
+    },
+    {
+        "label": "ModelView",
+        "importPath": "flask_admin.contrib.sqla",
+        "description": "flask_admin.contrib.sqla",
+        "isExtraImport": true,
+        "detail": "flask_admin.contrib.sqla",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "validate_student_email",
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "isExtraImport": true,
+        "detail": "rdms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validate_admin_email",
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "isExtraImport": true,
+        "detail": "rdms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validate_course_code",
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "isExtraImport": true,
+        "detail": "rdms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "rdms",
+        "description": "rdms",
+        "isExtraImport": true,
+        "detail": "rdms",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "rdms",
+        "description": "rdms",
+        "isExtraImport": true,
+        "detail": "rdms",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "rdms",
+        "description": "rdms",
+        "isExtraImport": true,
+        "detail": "rdms",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "rdms",
+        "description": "rdms",
+        "isExtraImport": true,
+        "detail": "rdms",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "rdms",
+        "description": "rdms",
+        "isExtraImport": true,
+        "detail": "rdms",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "isExtraImport": true,
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "validate_email",
+        "importPath": "email_validator",
+        "description": "email_validator",
+        "isExtraImport": true,
+        "detail": "email_validator",
+        "documentation": {}
+    },
+    {
+        "label": "EmailNotValidError",
+        "importPath": "email_validator",
+        "description": "email_validator",
+        "isExtraImport": true,
+        "detail": "email_validator",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "class Users(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\n    password = db.Column(db.String(1000))\n    admin = db.Column(db.Boolean)\nclass Students(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\ndef insert_data():\n    student_details = details()[0]",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "Students",
+        "kind": 6,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "class Students(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\ndef insert_data():\n    student_details = details()[0]\n    admin_details = details()[1] \n    for email, user_details in student_details.items():\n        student = Users.query.filter_by(email=email).first()\n        if not student:\n            encrypted_password = generate_password_hash(user_details[0])",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "insert_data",
+        "kind": 2,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "def insert_data():\n    student_details = details()[0]\n    admin_details = details()[1] \n    for email, user_details in student_details.items():\n        student = Users.query.filter_by(email=email).first()\n        if not student:\n            encrypted_password = generate_password_hash(user_details[0])\n            new_student = Users(email=email, password=encrypted_password, admin=user_details[1])\n            db.session.add(new_student)\n            db.session.commit()",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "app = Flask(__name__) \n# App secret key\n# Must be the same string present in '__init__.py'\napp.secret_key = '**********'\n# Must be the same connection present in '__init__.py'\n# app.config['SQLALCHEMY_DATABASE_URL']='mysql://username:password@host:port/database\napp.config['SQLALCHEMY_DATABASE_URI'] = '**********'\ndb = SQLAlchemy(app)\nclass Users(db.Model):\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "app.secret_key = '**********'\n# Must be the same connection present in '__init__.py'\n# app.config['SQLALCHEMY_DATABASE_URL']='mysql://username:password@host:port/database\napp.config['SQLALCHEMY_DATABASE_URI'] = '**********'\ndb = SQLAlchemy(app)\nclass Users(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\n    password = db.Column(db.String(1000))\n    admin = db.Column(db.Boolean)",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = '**********'\ndb = SQLAlchemy(app)\nclass Users(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\n    password = db.Column(db.String(1000))\n    admin = db.Column(db.Boolean)\nclass Students(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "rdms.define_details",
+        "description": "rdms.define_details",
+        "peekOfCode": "db = SQLAlchemy(app)\nclass Users(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\n    password = db.Column(db.String(1000))\n    admin = db.Column(db.Boolean)\nclass Students(db.Model):\n    id = db.Column(db.Integer, primary_key=True)\n    email = db.Column(db.String(100), nullable=False, unique=True)\ndef insert_data():",
+        "detail": "rdms.define_details",
+        "documentation": {}
+    },
+    {
+        "label": "details",
+        "kind": 2,
+        "importPath": "rdms.login_details",
+        "description": "rdms.login_details",
+        "peekOfCode": "def details():\n    \"\"\"\n    Define students and admin login details.\n    Conditions:\n        Admin emails should not end with 'stu.edu.ng'.\n        Students emails must end with 'stu.edu.ng'.\n        'False' indicates that user is a student.\n        'True' indicates that user is an admin.\n        Do not violate the above conditions else the app will not run\n        correctly.",
+        "detail": "rdms.login_details",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class Users(UserMixin, db.Model):\n    \"\"\"\n    Create a 'users' table which contains both students and admins \n    email and password.\n    Attributes:\n        id (int): Primary key \n        email (str): Admin or Student email \n        password (str): Hashed user password. Set default to 1234 when \n                        admin creates new user\n        admin (bool): True if user is an admin and False otherwise",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Students",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class Students(db.Model):\n    \"\"\"\n    Create 'students' table which contains students emails only. \n    This table has a one to one relationship with 'profiles' table.\n    Thus it enforces that profiles are created for student \n    accounts that actually exist.   \n    Attributes:\n        id (int): Primary key \n        email (str): Email of student or admin\n    \"\"\"",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profiles",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class Profiles(db.Model):\n    \"\"\"\n    Create profile table which contains basic student information.\n    This table has a one to many relationship with 'results' table.\n    Thus it enforces that results are created only for students whose \n    profile detail exist.  \n    Attributes:\n        id (int): Primary key \n        name (str): Student full name\n        email (str): Student email ",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Results",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class Results(db.Model):\n    \"\"\"\n    Create student results table.  \n    Attributes:\n        id (int): Primary key \n        email (str): Student email\n        code (str): Course code\n        description (str): Course description\n        result (int): Course score\n    \"\"\"",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "CourseView",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class CourseView(BaseView):\n    \"\"\"Extend BaseView class.\"\"\"\n    # Add new url endpoint '/admin/courses'\n    @expose('/')\n    def index(self):\n        return self.render('courses.html')\nclass UsersView(ModelView):\n    \"\"\"Overide certain ModelView class attributes.\"\"\"\n    # Admin cannot delete nor edit data from 'users' table\n    can_delete = False",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsersView",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class UsersView(ModelView):\n    \"\"\"Overide certain ModelView class attributes.\"\"\"\n    # Admin cannot delete nor edit data from 'users' table\n    can_delete = False\n    can_edit = False\n    # Use 'admin' column as default column sort \n    column_default_sort = ('admin', False)\n    # Make 'password' field read only.\n    form_widget_args = {\n        'password': {",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileView",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class ProfileView(ModelView):\n    \"\"\"Overide certain ModelView class attributes.\"\"\"\n    # Admins can not delete results \n    # I do not want people messing up things\n    # Someone can just decide to delete all records! \n    can_delete = False\n    form_excluded_columns = ('student_details')\n    # Make 'email and 'last_updated' field readonly\n    form_widget_args = {\n        'student_email': {",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResultView",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class ResultView(ModelView):\n    \"\"\"Overide ModelView class attribute.\"\"\"\n    # Admins can not delete results \n    # I do not want people messing up things\n    can_delete = False\n    # Use email column as default column sort \n    column_default_sort = ('email', False)\n    def validate_form(self, form):\n        \"\"\"\n        Validate form on submit.",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "StudentView",
+        "kind": 6,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "class StudentView(ModelView):\n    \"\"\"Overide certain ModelView class attributes.\"\"\"\n    # Admins cannot delete or edit or create data\n    # Recall that students emails are automatically \n    # added once their login details are defined in 'users' table\n    can_delete = False\n    can_edit = False\n    can_create = False\n# Add modelviews for managing database models \nadmin.add_view(UsersView(Users, db.session, ",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_user",
+        "kind": 2,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "def load_user(user_id):\n    return Users.query.get(int(user_id))\n# Handle unauthorized requests to admin page from users\n@app.errorhandler(403)\ndef not_found_error(error):\n    \"\"\"\n    Handle unauthorized requests to admin page from users.\n    Render 403.html template\n    \"\"\"\n    return render_template('403.html')",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "not_found_error",
+        "kind": 2,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "def not_found_error(error):\n    \"\"\"\n    Handle unauthorized requests to admin page from users.\n    Render 403.html template\n    \"\"\"\n    return render_template('403.html')\n# Handle page not found error (404)\n@app.errorhandler(404)\ndef not_found_error(error):\n    \"\"\"",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "not_found_error",
+        "kind": 2,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "def not_found_error(error):\n    \"\"\"\n    Handle page not found error (404)\n    Render 404.html template\n    \"\"\"\n    return render_template('404.html')  \nclass Users(UserMixin, db.Model):\n    \"\"\"\n    Create a 'users' table which contains both students and admins \n    email and password.",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "kind": 5,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "admin = Admin(app, name='Admin Page', template_mode='bootstrap4')\n# Initialize login manager\nlogin_manager = LoginManager(app)\nlogin_manager.login_view = 'login'\n# user_loader callback function\n@login_manager.user_loader\ndef load_user(user_id):\n    return Users.query.get(int(user_id))\n# Handle unauthorized requests to admin page from users\n@app.errorhandler(403)",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager",
+        "kind": 5,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "login_manager = LoginManager(app)\nlogin_manager.login_view = 'login'\n# user_loader callback function\n@login_manager.user_loader\ndef load_user(user_id):\n    return Users.query.get(int(user_id))\n# Handle unauthorized requests to admin page from users\n@app.errorhandler(403)\ndef not_found_error(error):\n    \"\"\"",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager.login_view",
+        "kind": 5,
+        "importPath": "rdms.models",
+        "description": "rdms.models",
+        "peekOfCode": "login_manager.login_view = 'login'\n# user_loader callback function\n@login_manager.user_loader\ndef load_user(user_id):\n    return Users.query.get(int(user_id))\n# Handle unauthorized requests to admin page from users\n@app.errorhandler(403)\ndef not_found_error(error):\n    \"\"\"\n    Handle unauthorized requests to admin page from users.",
+        "detail": "rdms.models",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def index():\n    return render_template('home.html')\n# Handle student and admin login\n@app.route('/login', methods=['POST', 'GET']) \ndef login():\n    \"\"\"Handle user login and authenticate inputs.\"\"\"\n    # Check if username and password requests exist\n    if request.method == \"POST\":\n        # At first assume the user is a student \n        student_email = request.form.get('student_email')",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def login():\n    \"\"\"Handle user login and authenticate inputs.\"\"\"\n    # Check if username and password requests exist\n    if request.method == \"POST\":\n        # At first assume the user is a student \n        student_email = request.form.get('student_email')\n        # If student_email from home.html is not 'None' then user is a student\n        if student_email:\n            # Query Users table against student email and password\n            student_password = request.form.get('student_password')",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def about():\n    \"\"\"Render about.html file.\"\"\"\n    return render_template('about.html')\n@app.route('/contact')\ndef contact():\n    \"\"\"Render contact.html file.\"\"\"\n    return render_template('contact.html')\n@app.route('/details')\ndef details():\n    \"\"\"Render details.html file.\"\"\"",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def contact():\n    \"\"\"Render contact.html file.\"\"\"\n    return render_template('contact.html')\n@app.route('/details')\ndef details():\n    \"\"\"Render details.html file.\"\"\"\n    return render_template('details.html')\n@app.route('/result')\n@login_required\ndef result():",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "details",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def details():\n    \"\"\"Render details.html file.\"\"\"\n    return render_template('details.html')\n@app.route('/result')\n@login_required\ndef result():\n    \"\"\"Render result.html file\"\"\"\n    user_email = current_user.email\n    # Query 'profiles' table for student profile details\n    profile_info = db.engine.execute(",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def result():\n    \"\"\"Render result.html file\"\"\"\n    user_email = current_user.email\n    # Query 'profiles' table for student profile details\n    profile_info = db.engine.execute(\n        f\"SELECT * FROM `profiles` WHERE email = '{user_email}'\"\n    ) \n    # Query 'results' table for distinct student results\n    student_result = db.engine.execute(\n        f\"SELECT DISTINCT code, description, result \\",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "not_found_error",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def not_found_error(error):\n    return render_template('404.html')  \n@app.route('/logout')\ndef logout():\n    \"\"\"Logout user and redirect to home page\"\"\"\n    logout_user()\n    return redirect(url_for('index'))",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "rdms.routes",
+        "description": "rdms.routes",
+        "peekOfCode": "def logout():\n    \"\"\"Logout user and redirect to home page\"\"\"\n    logout_user()\n    return redirect(url_for('index'))",
+        "detail": "rdms.routes",
+        "documentation": {}
+    },
+    {
+        "label": "validate_admin_email",
+        "kind": 2,
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "peekOfCode": "def validate_admin_email(admin_email):\n    \"\"\"\n    Validate email address\n        Conditions:\n            Email must be properly formatted (not necessarily exist)\n            Email must not end with 'stu.edu.ng'\n        Return:\n            A tuple consisting two elements. \n            First element is a Boolean value. False means email fails\n            condition check while True means otherwise. ",
+        "detail": "rdms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validate_student_email",
+        "kind": 2,
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "peekOfCode": "def validate_student_email(student_email):\n    \"\"\"\n    Validate email address\n        Conditions:\n            Email must be properly formatted (not necessarily exist)\n            Email must end with 'stu.edu.ng'\n        Return:\n            A tuple consisting two elements. \n            First element is a Boolean value. False means email fails \n            condition check while True means otherwise. ",
+        "detail": "rdms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validate_course_code",
+        "kind": 2,
+        "importPath": "rdms.validators",
+        "description": "rdms.validators",
+        "peekOfCode": "def validate_course_code(course_code):\n    \"\"\"\n    Validate course code.\n    Conditions:\n            Course codes should be six characters long.\n            The first three characters should be upercase letters. \n            The last three characters should be numbers\n        Return:\n            A tuple consisting two elements. \n            First element is a Boolean value. False means ",
+        "detail": "rdms.validators",
+        "documentation": {}
+    }
+]
